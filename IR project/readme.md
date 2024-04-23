@@ -33,6 +33,10 @@ To utilize the system:
 3. Launch the system with python app.py.
 Users can then input queries and receive top-ranking search results.
 
+## Execution
+export FLASK_APP=app.py
+flask run
+
 ## Conclusion:
 The developed system achieves optimal crawling and search capabilities on web documents. However, challenges such as incomplete or inaccurate indexing and scalability issues may arise. Users should exercise caution when relying solely on search results.
 
